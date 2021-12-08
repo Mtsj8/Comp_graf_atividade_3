@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_application.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_application.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_application.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_elapsedtimer.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_elapsedtimer.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_elapsedtimer.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_exception.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_exception.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_exception.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_image.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_image.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_image.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_openglfunctions.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_openglfunctions.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_openglfunctions.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_openglwindow.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_openglwindow.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_openglwindow.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_string.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_string.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_string.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_trackball.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_trackball.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/abcg_trackball.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_impl_sdl.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_impl_sdl.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/opt/local/include -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui  -g -flto -fno-fat-lto-objects   -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/abcg/external/fmt",
+  "command": "/usr/lib/ccache/c++   -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt  -g -flto -fno-fat-lto-objects   -std=gnu++2a -o CMakeFiles/fmt.dir/format.cc.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt/format.cc",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/examples/planetViewer",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/planetViewer.dir/main.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/main.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/main.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/examples/planetViewer",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/planetViewer.dir/model.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/model.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/model.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/examples/planetViewer",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/planetViewer.dir/openglwindow.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/openglwindow.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/openglwindow.cpp"
+},
+{
+  "directory": "/home/marcelo/ufabc/Comp_graf_atividade_3/build/examples/planetViewer",
+  "command": "/usr/lib/ccache/c++   -I/usr/include/SDL2 -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/cppitertools -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/fmt -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/glm/.. -I/home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external/imgui -isystem /home/marcelo/ufabc/Comp_graf_atividade_3/abcg/external  -g -flto -fno-fat-lto-objects   -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/planetViewer.dir/trackball.cpp.o -c /home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/trackball.cpp",
+  "file": "/home/marcelo/ufabc/Comp_graf_atividade_3/examples/planetViewer/trackball.cpp"
+}
+]
