@@ -16,5 +16,6 @@ Utilizando o exemplo de trackball realizamos a movimentação dos planetas, e co
 Como base dos planetas foi usado esse [Modelo](https://www.turbosquid.com/3d-models/3d-wooden-sphere-model-1785127) base, e as texturas foram sendo personalizadas.
 
 ## Vídeo
-Devido a algumas incompatibilidades com 
+Devido a algumas incompatibilidades do sistema opercional com o Emscripten não foi possivel gerar o WebAssembly, então foi gravado um vídeo para mostrar a funcionalidade da aplicação:
+
 [Vídeo](https://drive.google.com/file/d/1zpODHTD0AZyvBMevnO9wVI-L8vVyem6G/view?usp=sharing)
